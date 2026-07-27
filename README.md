@@ -1,6 +1,6 @@
 # Gabriele Natividade  
 
-🇺🇸 **English**  
+**English**  
 Hi, I'm **Gabriele Natividade**...  
 A Software Engineering student passionate about **Data Analysis, Web Development, and Business Intelligence (BI)**.  
 
@@ -33,7 +33,7 @@ A Software Engineering student passionate about **Data Analysis, Web Development
 
 ---
 
-🇧🇷 **Português (Brasil)**  
+ **Português (Brasil)**  
 Olá, eu sou **Gabriele Natividade**...  
 Estudante de Engenharia de Software apaixonada por **Análise de Dados, Desenvolvimento Web e Business Intelligence (BI)**.  
 
