@@ -39,7 +39,7 @@ Olá, eu sou **Gabriele Natividade**
 Estudante de Engenharia de Software apaixonada por **Análise de Dados, Desenvolvimento Web e Business Intelligence (BI)**.  
 
 ## Sobre Mim  
- Estudante de Engenharia de Software na **Universidade do Estado da Bahia (UNEB)**  
+ Sou Estudante de Engenharia de Software na **Universidade do Estado da Bahia (UNEB)**  
  Entusiasta em **Análise de Dados, Desenvolvimento Web e BI**  
  Foco em **Power BI, Python e tecnologias Web**  
  Busco transformar dados em conhecimento e soluções que gerem impacto positivo  
