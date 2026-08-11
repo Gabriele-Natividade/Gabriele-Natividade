@@ -36,7 +36,7 @@ A Software Engineering student passionate about **Data Analysis, Web Development
 
  **Português (Brasil)**  
 Olá, eu sou **Gabriele Natividade**
-Estudante de Engenharia de Software apaixonada por **Análise de Dados, Desenvolvimento Web e Business Intelligence (BI)**.  
+ Sou estudante de Engenharia de Software apaixonada por **Análise de Dados, Desenvolvimento Web e Business Intelligence (BI)**.  
 
 ## Sobre Mim  
  Sou estudante de Engenharia de Software na **Universidade do Estado da Bahia (UNEB)**  
