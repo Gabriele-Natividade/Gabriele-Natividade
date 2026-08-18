@@ -2,8 +2,8 @@
 
 **English**  
 Hello, im **Gabriele Natividade** 
-
-A Software Engineering student passionate about **Data Analysis, Web Development, and Business Intelligence (BI)**.  
+ 
+ A Software Engineering student passionate about **Data Analysis, Web Development, and Business Intelligence (BI)**.  
 
 ## About Me  
  Software Engineering student at **Universidade do Estado da Bahia (UNEB)**  
