@@ -1,7 +1,7 @@
 # Gabriele Natividade  
 
 **English**  
-Hello, im **Gabriele Natividade** 
+Hi, im **Gabriele Natividade** 
  
  A Software Engineering student passionate about **Data Analysis, Web Development, and Business Intelligence (BI)**.  
 
