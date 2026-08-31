@@ -9,7 +9,7 @@ Hi, im **Gabriele Natividade**
  Software Engineering student at **Universidade do Estado da Bahia (UNEB)**  
  Enthusiast in **Data Analysis, Web Development and BI**  
  Focused on **Power BI, Python, and Web technologies**  
- Always looking to transform data into knowledge and solutions  
+ Always looking to transform data into knowledge and solutions
 
 ##  Tech Stack & Tools  
 <p align="left">
